@@ -5,7 +5,8 @@
     "description": "Reads the article out loud",
     "permissions": [
         "activeTab",
-        "scripting"
+        "scripting",
+        "offscreen"
     ],
     "action": {
         "default_popup": "popup.html",
